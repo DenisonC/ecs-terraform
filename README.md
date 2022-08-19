@@ -8,6 +8,7 @@ Para começar vamos configurar as credenciais da AWS
 
 
 
+![image](https://user-images.githubusercontent.com/92161413/185539905-672da579-cb42-4ca3-a7f1-e4bf7caa05cc.png)
 
 
 

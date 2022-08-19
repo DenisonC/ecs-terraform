@@ -6,3 +6,11 @@ Para começar vamos configurar as credenciais da AWS
 
 #aws configure 
 
+
+
+
+
+
+
+Links de referência:
+https://medium.com/swlh/creating-an-aws-ecs-cluster-of-ec2-instances-with-terraform-85a10b5cfbe3

@@ -1,6 +1,6 @@
 terraform {
     backend "s3" {
-        bucket = "decroterraform"
+        bucket = "my-tf-bucket-denison"
         key    = "state.tfstate"
     }
 }

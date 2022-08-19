@@ -1,5 +1,8 @@
 Criando um cluster ECS com o Terraform
 
+![image](https://user-images.githubusercontent.com/92161413/185540555-4acaec20-094f-4733-b3aa-09407aa0b6f6.png)
+
+
 Para começar vamos configurar as credenciais da AWS 
 
 #apt install aws-cli
@@ -8,7 +11,6 @@ Para começar vamos configurar as credenciais da AWS
 
 
 
-![image](https://user-images.githubusercontent.com/92161413/185539905-672da579-cb42-4ca3-a7f1-e4bf7caa05cc.png)
 
 
 
